@@ -13,4 +13,5 @@ Uitdagende wiskundige berekeningen voor de juiste plaatsing van de spiegels, om 
 Geschikt voor thuisgebruik, onderwijsinstellingen, evenementen en teambuildingactiviteiten.
 Dit Laser Beveiligingssysteem biedt niet alleen een boeiende en educatieve ervaring, maar ook een opwindende en uitdagende speeltijd voor alle leeftijden. Ontdek de wereld van laserbeveiliging en stimuleer het denkvermogen van spelers terwijl ze genieten van dit interactieve en leerzame spel.
 
+De meegelverde arduino is voorgeprogrammeerd, de broncode kan hierboven gedownload worden.
 Link naar productpagina: https://www.velleman.eu/products/view?id=470478
