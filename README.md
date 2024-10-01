@@ -14,4 +14,4 @@ Extra Excitement: Suitable for home use, educational institutions, events, and t
 
 The included AT Mega development board is pre-programmed, and the source code can be downloaded above. The included connection diagram and template can also be downloaded here.
 
-Link to Product Page: https://www.velleman.eu/products/view?id=470478
+Link to Product Page: [https://www.velleman.eu/products/view?id=470478](https://www.velleman.eu/products/view?id=470478)
