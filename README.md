@@ -1,19 +1,17 @@
 # WMS102-Laser-Protection-Set
 
-Programmeerbare laserbeveiligingskit voor educatieve STEM-projecten en andere toepassingen, met ATmega328-ontwikkelboard. Geschikt voor het opzetten van een 'beveiligde zone' in een donkere kamer, het leren breken van laserstralen met spiegels en educatieve speltoepassingen zoals bva in een 'escape room'.
+Programmable Laser Security Kit for Educational STEM Projects and Other Applications, Featuring ATmega328 Development Board. Suitable for Setting Up a 'Secure Zone' in a Dark Room, Learning to Break Laser Beams with Mirrors, and Educational Game Applications such as in an 'Escape Room'.
 
-+ Geavanceerde laser: Geavanceerd laserbeveiligingssysteem voor educatieve en entertainmentdoeleinden.
-+ Drie modi: Laserstraal detectie, Laserstraal onderbreking en Spiegelpuzzel met tijdslot.
-+ Tijdmeting: Meting voor laserstraal detectie en onderbrekingsscenario's.
-+ Systeem:
-Interactief spelsysteem met strategisch geplaatste spiegels voor een boeiende ervaring.
-Uitdagende wiskundige berekeningen voor de juiste plaatsing van de spiegels, om de "puzzeloplossing" te vinden.
+Advanced Laser: An advanced laser security system for educational and entertainment purposes.
 
-+ Extra spanning:
-Geschikt voor thuisgebruik, onderwijsinstellingen, evenementen en teambuildingactiviteiten.
-Dit Laser Beveiligingssysteem biedt niet alleen een boeiende en educatieve ervaring, maar ook een opwindende en uitdagende speeltijd voor alle leeftijden. Ontdek de wereld van laserbeveiliging en stimuleer het denkvermogen van spelers terwijl ze genieten van dit interactieve en leerzame spel.
+Three Modes: Laserbeam searcher,Laserbeam Alarm and Laserbeam puzzle.
 
-De meegelverde arduino is voorgeprogrammeerd, de broncode kan hierboven gedownload worden.
-Het meegeleverde aansluitschema en template kan je hier ook downloaden.
+Time Measurement: Measurement for laser beam detection and interruption scenarios.
 
-Link naar productpagina: https://www.velleman.eu/products/view?id=470478
+System: Interactive game system with strategically placed mirrors for an engaging experience. Challenging mathematical calculations for the correct placement of the mirrors to find the "puzzle solution."
+
+Extra Excitement: Suitable for home use, educational institutions, events, and team-building activities. This laser security system provides not only an engaging and educational experience but also an exciting and challenging playtime for all ages. Explore the world of laser security and stimulate players' thinking skills while they enjoy this interactive and educational game.
+
+The included AT Mega development board is pre-programmed, and the source code can be downloaded above. The included connection diagram and template can also be downloaded here.
+
+Link to Product Page: https://www.velleman.eu/products/view?id=470478
